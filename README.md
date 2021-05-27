@@ -1,7 +1,7 @@
 # Lane_Detection_OpenCV
 Lane detection using OpenCV
 
-! /home/girish/Documents/mahe/Lectures/II Sem/MMA - Ragudathesh Sir/Case Study/Lane Detection Final Code and data/Lanedetection.jpg
+Lanedetection.jpg
 
 
 References:
