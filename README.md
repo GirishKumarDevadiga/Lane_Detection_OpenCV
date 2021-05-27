@@ -1,7 +1,7 @@
 # Lane_Detection_OpenCV
 Lane detection using OpenCV
 
-![image] (https://github.com/GirishKumarDevadiga/Lane_Detection_OpenCV/blob/master/Lanedetection.jpg?raw=true)
+https://github.com/GirishKumarDevadiga/Lane_Detection_OpenCV/blob/master/Lanedetection.jpg?raw=true
 
 
 References:
