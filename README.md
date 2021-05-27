@@ -25,5 +25,5 @@ https://docs.opencv.org/3.4/dd/d9e/classcv_1_1VideoWriter.html
 * FourCC
 https://docs.opencv.org/master/dd/d43/tutorial_py_video_display.html
 
-* mp4 to h.264 codec conversion
+* MP4 to H.264 codec conversion
 https://ffmpeg.org/pipermail/ffmpeg-user/2012-May/006647.html
